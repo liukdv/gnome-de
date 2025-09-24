@@ -1,0 +1,2 @@
+# gnome-de
+gnome settings
