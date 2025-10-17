@@ -1,16 +1,19 @@
 [/]
+active-screen-edges=false
 enable-screen-edges-windows-suggestions=false
 enable-snap-assistant-windows-suggestions=false
-enable-span-multiple-tiles=false
+enable-span-multiple-tiles=true
 enable-tiling-system-windows-suggestions=false
 enable-window-border=true
 inner-gaps=uint32 0
 outer-gaps=uint32 0
-quarter-tiling-threshold=uint32 20
-selected-layouts=[['Layout 3', 'Layout 1', '729368'], ['Layout 1', 'Layout 1', 'Layout 1'], ['Layout 1', 'Layout 1', 'Layout 1']]
+quarter-tiling-threshold=uint32 35
+selected-layouts=[['Layout 3', 'Layout 1', '729368'], ['Layout 3', 'Layout 2', '729368'], ['Layout 3', 'Layout 2', '729368']]
 show-indicator=true
 snap-assistant-threshold=20
 span-multiple-tiles-activation-key=['1']
 tiling-system-activation-key=['2']
 tiling-system-deactivation-key=['0']
-window-border-color='rgb(119,118,123)'
+top-edge-maximize=true
+window-border-color='rgb(198,70,0)'
+window-border-width=uint32 1
